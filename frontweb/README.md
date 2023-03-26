@@ -1,6 +1,5 @@
-# Getting Started with Create React App
+# MovieFlix front inicial
 
-## MovieFlix front inicial
 
 In the project directory, you can run:
 
