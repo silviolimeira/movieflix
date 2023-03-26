@@ -1,0 +1,48 @@
+
+.btn-container {
+    height: 50px;
+    border-radius: 4px;
+    background: #FFC700;
+    border-radius: 4px;    
+    display:flex;
+}
+
+.btn-container button {
+    width: 100%;
+    text-align: center;
+    align-items: center;
+}
+
+.btn h6 {
+    color: #fff;
+    
+    text-transform: uppercase;
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 27px;
+    align-items: center;
+    text-align: center;
+    letter-spacing: -0.015em;
+    
+    color: #000000;    
+}
+
+/*
+@media (min-width: 576px) {
+    .btn-icon-container {
+        width: 70px;
+        height: 70px;
+    }
+
+    .btn-container button {
+        width: calc(100% - 70px);
+    }
+
+    .btn h6 {
+        font-size: 18px;
+    }
+}
+*/

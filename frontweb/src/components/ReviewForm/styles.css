@@ -1,0 +1,53 @@
+.container-fluid {
+    padding: 0;
+    margin: 0;
+    display: block;
+}
+
+.review-form {
+    background: #6C6C6C;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.25);
+    border-radius: 4px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.review-form input {
+    box-sizing: border-box;
+    background: #FFFFFF;
+    border: 1px solid #E1E1E1;
+    border-radius: 4px;    
+    padding: 5px;
+    margin-top: 10px;
+    width: 100%;
+    height: 50px;
+}
+
+.review-form button {
+    height: 50px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    width: 100%;
+    background: #FFC700;
+    border-radius: 4px;    
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 22px;
+    letter-spacing: -0.015em;
+    mix-blend-mode: normal;
+}
+
+.review-form-button {
+    display: flex;
+    flex-direction: column; 
+    align-items: center;     
+}
+
+@media (min-width: 576px) {
+    .review-form button {
+
+        width: 334px;
+    }
+}

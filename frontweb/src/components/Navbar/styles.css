@@ -1,0 +1,157 @@
+.nav-login-logout {
+  box-sizing: border-box;
+  border: 1px solid #000000;
+  border-radius: 10px;
+  width: 100px;
+  height: 30px;
+  text-align: center;
+
+  margin-right: 18px;
+}
+
+.nav-logo-text {
+  margin-left: 18px;
+}
+
+.nav-login-logout a {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 19px;
+  letter-spacing: -0.015em;
+
+  color: #000000;
+
+  mix-blend-mode: normal;
+}
+
+@media (min-width: 576px) {
+  .nav-logo-text {
+    margin-left: 23px;
+  }
+
+  .nav-login-logout {
+    margin-right: 26px;
+
+  }
+  
+}
+
+@media (min-width: 768px) {
+  .nav-logo-text {
+    margin-left: 31px;
+    width: 100%;
+  }
+
+  .nav-login-logout {
+    margin-right: 31px;
+  }
+  
+}
+
+@media (min-width: 1200px) {
+  .nav-logo-text {
+    margin-left: 49px;
+    width: 1000px;
+  }
+
+  .nav-login-logout {
+    margin-right: 59px;
+
+  }
+  
+}
+
+@media (min-width: 1400px) {
+  .nav-login-logout {
+    margin-right: 0px;
+  }
+
+  .nav-login-logout {
+    margin-right: 0px;
+  }  
+}
+
+/*
+.navbar-toggler {
+  visibility: hidden;
+}
+
+.main-nav {
+  padding-left: 18px;
+  min-height: 70px;
+}
+
+.container-fluid {
+  display: flex;
+  justify-content:space-around;
+  flex-direction: row; 
+}
+
+.nav-logo-text {
+  color: #000;
+
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 33px;
+  
+  letter-spacing: -0.015em;
+
+  margin-left: 10px;
+}
+
+.nav-logo-text:hover {
+  color: #000;
+}
+
+@media (min-width: 576px) {
+
+  .container-fluid h4 {
+    font-size: 24px;
+  }
+}
+
+.nav-login-logout {
+  display: flex;
+  text-align: center;
+  align-items: center;
+
+  margin:0;
+  padding:0;
+  width: 100px;
+  height: 40px;
+
+  color: #000000;
+  mix-blend-mode: normal;
+  box-sizing: border-box;
+
+  margin-right: 20px;
+
+}
+
+.nav-login-logout a {
+  border: 1px solid #000000;
+  border-radius: 10px;  
+
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  letter-spacing: -0.015em;
+
+  width: 100%;
+  margin-top:1px;
+  color: #000;
+}
+
+.main-menu a:hover {
+
+}
+.main-menu a.active {
+  font-weight: bold;
+}
+
+*/

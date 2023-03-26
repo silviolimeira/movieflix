@@ -1,0 +1,77 @@
+
+/*
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+https://www.w3schools.com/css/css3_flexbox_responsive.asp
+https://flexboxfroggy.com/
+*/
+
+.container {
+  /*
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  */
+
+}
+
+.home-container {
+  margin: 0;
+  padding: 0;
+
+}
+
+
+.login {
+}
+
+/*
+@media (min-width: 320px) {
+  .container {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+  }
+}
+*/
+
+/*
+.home h1 {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 65px;
+  letter-spacing: -0.015em;
+  color: #FFFFFF;
+  mix-blend-mode: normal;
+  margin-top: 19px;
+  margin-bottom: 51px;
+}
+*/
+
+/*
+.home p {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 30px;
+  letter-spacing: -0.015em;
+
+  color: #F2F2F2;  
+}
+*/
+
+/*
+@media (min-width: 1200px) {
+  .home {
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    visibility: visible;
+  }
+}
+*/
+
